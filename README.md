@@ -2,7 +2,7 @@
 
 An end-to-end AI-powered medical chatbot with voice, vision, and document retrieval capabilities.
 
-![alt text] ai-chatboat.png
+![alt text] (https://github.com/sharmamanishcomp/medical-chatbot/blob/main/ai-chatboat.png)
 
 ## Features
 
