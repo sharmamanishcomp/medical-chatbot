@@ -2,6 +2,8 @@
 
 An end-to-end AI-powered medical chatbot with voice, vision, and document retrieval capabilities.
 
+![alt text] ai-chatboat.png
+
 ## Features
 
 - **Speech-to-Text**: Ask questions using your voice.
